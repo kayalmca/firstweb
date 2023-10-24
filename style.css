@@ -1,0 +1,32 @@
+.header{
+	display: flex;
+	justify-content: space-between;
+	
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.linkcontainer{
+
+	padding-top: 30px;
+}
+
+.linkcontainer a{
+	padding-left: 20px;
+	padding-right: 50px;
+	text-decoration: none;
+	color: white;
+}
+
+.but a{
+
+
+	text-decoration: none;
+	border:1px solid orange;
+	color: white;
+
+}
+.container{
+	background-image:url(image.jpg);
+
+	height: 100vh;
+}
